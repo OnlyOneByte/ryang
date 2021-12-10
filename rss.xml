@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Rengang Yang | Full-Stack Developer]]></title><description><![CDATA[Rengang Yang | Full-Stack Developer]]></description><link>https://ryang.dev</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 10 Dec 2021 19:18:45 GMT</lastBuildDate><item><title><![CDATA[My Fourth Blog Post]]></title><description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit…]]></description><link>https://ryang.dev/blog/my-fourth-blog/</link><guid isPermaLink="false">https://ryang.dev/blog/my-fourth-blog/</guid><pubDate>Mon, 12 Oct 2020 12:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Rengang Yang | Full-Stack Developer]]></title><description><![CDATA[Rengang Yang | Full-Stack Developer]]></description><link>https://ryang.dev</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 10 Dec 2021 19:26:40 GMT</lastBuildDate><item><title><![CDATA[My Second Blog Post]]></title><description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit…]]></description><link>https://ryang.dev/blog/my-second-blog/</link><guid isPermaLink="false">https://ryang.dev/blog/my-second-blog/</guid><pubDate>Fri, 02 Oct 2020 12:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -6,7 +6,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg&quot;
+    href=&quot;/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -19,139 +19,11 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Mountain&quot;
         title=&quot;Mountain&quot;
-        src=&quot;/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg&quot;
-        srcset=&quot;/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/a80bd/mountain.jpg 148w,
-/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/1c91a/mountain.jpg 295w,
-/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg 590w,
-/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg 640w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Aliquam aliquid rem facere dolorum consectetur consequatur distinctio &lt;a href=&quot;https://github.com/RyanFitzgerald/devfolio&quot;&gt;mollitia id modi repellendus&lt;/a&gt; vero quae dolorem commodi soluta voluptates iusto nobis est dolore provident, porro veritatis placeat nemo impedit! Asperiores culpa delectus hic qui saepe, ipsum quia, exercitationem repellendus magni soluta sit suscipit laborum ducimus.&lt;/p&gt;
-&lt;h2&gt;Asperiores culpa delectus hic qui saepe&lt;/h2&gt;
-&lt;h3&gt;Facere labore velit ad autem&lt;/h3&gt;
-&lt;p&gt;Vitae veritatis quae eius quis vel soluta cumque? Facere labore velit ad autem. Nisi recusandae ducimus molestiae error ipsa quaerat, dignissimos suscipit similique itaque sunt provident quasi minus ut porro. Optio modi harum &lt;em&gt;dolore necessitatibus exercitationem&lt;/em&gt; blanditiis magni error ipsum, odit deleniti eligendi facilis, nesciunt delectus sit nostrum porro quam accusamus excepturi labore sequi maiores soluta?&lt;/p&gt;
-&lt;h3&gt;Porro veritatis placeat nemo impedit&lt;/h3&gt;
-&lt;p&gt;Veritatis et praesentium totam neque earum commodi nesciunt dolor quibusdam incidunt non, ex dicta molestias omnis maiores, maxime velit perferendis tenetur aut porro nostrum, suscipit soluta necessitatibus deserunt nobis. Minus rem dicta eos exercitationem illum consequatur consectetur praesentium voluptas. Dolor inventore quasi necessitatibus odio eaque doloribus.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Repudiandae iusto et iure pariatur aliquid, quisquam, non sed culpa, dignissimos recusandae facilis. Debitis hic, quaerat recusandae ad id, quis nisi perspiciatis quo aliquid natus similique.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Illum esse recusandae facere ipsam fugiat est eaque ducimus facilis provident, distinctio cum aut corporis officiis quo fugit, similique temporibus inventore quidem tempora commodi saepe dicta! Numquam fugiat quibusdam aut ut, voluptatibus accusamus &lt;strong&gt;repellendus quas minus consequuntur&lt;/strong&gt; possimus! Est eaque nesciunt, reiciendis voluptate placeat aspernatur doloremque unde cum et architecto suscipit quam facere corrupti nihil odit eum minima voluptatem nobis.&lt;/p&gt;
-&lt;h2&gt;Voluptatibus accusamus repellendus quas minus&lt;/h2&gt;
-&lt;p&gt;Ipsum quod, ut animi mollitia ipsam repellat, dolore voluptate quibusdam quasi reiciendis necessitatibus odio ea nostrum illo explicabo? Ducimus, in repudiandae. Ratione dolore sequi in animi obcaecati incidunt reprehenderit illo repellat atque aperiam, praesentium eligendi! Sed voluptas voluptatem sunt distinctio pariatur ullam? Laudantium laboriosam.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Numquam fugiat quibusdam aut ut&lt;/li&gt;
-&lt;li&gt;Soluta necessitatibus deserunt nobis&lt;/li&gt;
-&lt;li&gt;Illum esse recusandae facere ipsam&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Numquam fugiat quibusdam aut ut&lt;/li&gt;
-&lt;li&gt;Soluta necessitatibus deserunt nobis&lt;/li&gt;
-&lt;li&gt;Illum esse recusandae facere ipsam&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.&lt;/p&gt;
-&lt;h2&gt;Suscipit soluta necessitatibus deserunt nobi&lt;/h2&gt;
-&lt;p&gt;Minus rem dicta eos exercitationem illum consequatur consectetur praesentium voluptas. Dolor inventore quasi necessitatibus odio eaque doloribus.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; helloWorld &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;name &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;World&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token template-string&quot;&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;Hello &lt;/span&gt;&lt;span class=&quot;token interpolation&quot;&gt;&lt;span class=&quot;token interpolation-punctuation punctuation&quot;&gt;${&lt;/span&gt;name&lt;span class=&quot;token interpolation-punctuation punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token function&quot;&gt;helloWorld&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token function&quot;&gt;helloWorld&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;John Doe&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Numquam fugiat quibusdam aut ut, voluptatibus accusamus repellendus quas minus consequuntur possimus!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Third Blog Post]]></title><description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit…]]></description><link>https://ryang.dev/blog/my-third-blog/</link><guid isPermaLink="false">https://ryang.dev/blog/my-third-blog/</guid><pubDate>Sat, 10 Oct 2020 12:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEGBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB1rgK4oCfE//EABkQAAMBAQEAAAAAAAAAAAAAAAABERIhIv/aAAgBAQABBQKI8zhtmmVn/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERIf/aAAgBAwEBPwG4Y//EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPwGMjP/EABcQAQEBAQAAAAAAAAAAAAAAAAAxARD/2gAIAQEABj8CXFXV5//EABsQAAIDAAMAAAAAAAAAAAAAAAABESExYXHB/9oACAEBAAE/IeoelAk6pCVehPrHMf/aAAwDAQACAAMAAAAQkA//xAAYEQACAwAAAAAAAAAAAAAAAAAAESExUf/aAAgBAwEBPxCGh4P/xAAVEQEBAAAAAAAAAAAAAAAAAAAAYf/aAAgBAgEBPxCij//EAB0QAQACAQUBAAAAAAAAAAAAAAEAEXEhMVFhgZH/2gAIAQEAAT8QBChIW2yvRejLkkzC08rR3Ayw5H2f/9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Mountain&quot;
-        title=&quot;Mountain&quot;
-        src=&quot;/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg&quot;
-        srcset=&quot;/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/a80bd/mountain.jpg 148w,
-/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/1c91a/mountain.jpg 295w,
-/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg 590w,
-/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg 640w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Aliquam aliquid rem facere dolorum consectetur consequatur distinctio &lt;a href=&quot;https://github.com/RyanFitzgerald/devfolio&quot;&gt;mollitia id modi repellendus&lt;/a&gt; vero quae dolorem commodi soluta voluptates iusto nobis est dolore provident, porro veritatis placeat nemo impedit! Asperiores culpa delectus hic qui saepe, ipsum quia, exercitationem repellendus magni soluta sit suscipit laborum ducimus.&lt;/p&gt;
-&lt;h2&gt;Asperiores culpa delectus hic qui saepe&lt;/h2&gt;
-&lt;h3&gt;Facere labore velit ad autem&lt;/h3&gt;
-&lt;p&gt;Vitae veritatis quae eius quis vel soluta cumque? Facere labore velit ad autem. Nisi recusandae ducimus molestiae error ipsa quaerat, dignissimos suscipit similique itaque sunt provident quasi minus ut porro. Optio modi harum &lt;em&gt;dolore necessitatibus exercitationem&lt;/em&gt; blanditiis magni error ipsum, odit deleniti eligendi facilis, nesciunt delectus sit nostrum porro quam accusamus excepturi labore sequi maiores soluta?&lt;/p&gt;
-&lt;h3&gt;Porro veritatis placeat nemo impedit&lt;/h3&gt;
-&lt;p&gt;Veritatis et praesentium totam neque earum commodi nesciunt dolor quibusdam incidunt non, ex dicta molestias omnis maiores, maxime velit perferendis tenetur aut porro nostrum, suscipit soluta necessitatibus deserunt nobis. Minus rem dicta eos exercitationem illum consequatur consectetur praesentium voluptas. Dolor inventore quasi necessitatibus odio eaque doloribus.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Repudiandae iusto et iure pariatur aliquid, quisquam, non sed culpa, dignissimos recusandae facilis. Debitis hic, quaerat recusandae ad id, quis nisi perspiciatis quo aliquid natus similique.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Illum esse recusandae facere ipsam fugiat est eaque ducimus facilis provident, distinctio cum aut corporis officiis quo fugit, similique temporibus inventore quidem tempora commodi saepe dicta! Numquam fugiat quibusdam aut ut, voluptatibus accusamus &lt;strong&gt;repellendus quas minus consequuntur&lt;/strong&gt; possimus! Est eaque nesciunt, reiciendis voluptate placeat aspernatur doloremque unde cum et architecto suscipit quam facere corrupti nihil odit eum minima voluptatem nobis.&lt;/p&gt;
-&lt;h2&gt;Voluptatibus accusamus repellendus quas minus&lt;/h2&gt;
-&lt;p&gt;Ipsum quod, ut animi mollitia ipsam repellat, dolore voluptate quibusdam quasi reiciendis necessitatibus odio ea nostrum illo explicabo? Ducimus, in repudiandae. Ratione dolore sequi in animi obcaecati incidunt reprehenderit illo repellat atque aperiam, praesentium eligendi! Sed voluptas voluptatem sunt distinctio pariatur ullam? Laudantium laboriosam.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Numquam fugiat quibusdam aut ut&lt;/li&gt;
-&lt;li&gt;Soluta necessitatibus deserunt nobis&lt;/li&gt;
-&lt;li&gt;Illum esse recusandae facere ipsam&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Numquam fugiat quibusdam aut ut&lt;/li&gt;
-&lt;li&gt;Soluta necessitatibus deserunt nobis&lt;/li&gt;
-&lt;li&gt;Illum esse recusandae facere ipsam&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.&lt;/p&gt;
-&lt;h2&gt;Suscipit soluta necessitatibus deserunt nobi&lt;/h2&gt;
-&lt;p&gt;Minus rem dicta eos exercitationem illum consequatur consectetur praesentium voluptas. Dolor inventore quasi necessitatibus odio eaque doloribus.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; helloWorld &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;name &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;World&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token template-string&quot;&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;Hello &lt;/span&gt;&lt;span class=&quot;token interpolation&quot;&gt;&lt;span class=&quot;token interpolation-punctuation punctuation&quot;&gt;${&lt;/span&gt;name&lt;span class=&quot;token interpolation-punctuation punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token function&quot;&gt;helloWorld&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token function&quot;&gt;helloWorld&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;John Doe&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Numquam fugiat quibusdam aut ut, voluptatibus accusamus repellendus quas minus consequuntur possimus!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Second Blog Post]]></title><description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit…]]></description><link>https://ryang.dev/blog/my-second-blog/</link><guid isPermaLink="false">https://ryang.dev/blog/my-second-blog/</guid><pubDate>Fri, 02 Oct 2020 12:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEGBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB1rgK4oCfE//EABkQAAMBAQEAAAAAAAAAAAAAAAABERIhIv/aAAgBAQABBQKI8zhtmmVn/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERIf/aAAgBAwEBPwG4Y//EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPwGMjP/EABcQAQEBAQAAAAAAAAAAAAAAAAAxARD/2gAIAQEABj8CXFXV5//EABsQAAIDAAMAAAAAAAAAAAAAAAABESExYXHB/9oACAEBAAE/IeoelAk6pCVehPrHMf/aAAwDAQACAAMAAAAQkA//xAAYEQACAwAAAAAAAAAAAAAAAAAAESExUf/aAAgBAwEBPxCGh4P/xAAVEQEBAAAAAAAAAAAAAAAAAAAAYf/aAAgBAgEBPxCij//EAB0QAQACAQUBAAAAAAAAAAAAAAEAEXEhMVFhgZH/2gAIAQEAAT8QBChIW2yvRejLkkzC08rR3Ayw5H2f/9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Mountain&quot;
-        title=&quot;Mountain&quot;
-        src=&quot;/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg&quot;
-        srcset=&quot;/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/a80bd/mountain.jpg 148w,
-/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/1c91a/mountain.jpg 295w,
-/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg 590w,
-/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg 640w&quot;
+        src=&quot;/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg&quot;
+        srcset=&quot;/static/04fd963e3e5a465c84a4c4d5014f320f/a80bd/mountain.jpg 148w,
+/static/04fd963e3e5a465c84a4c4d5014f320f/1c91a/mountain.jpg 295w,
+/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg 590w,
+/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg 640w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -198,7 +70,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg&quot;
+    href=&quot;/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -211,11 +83,11 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Mountain&quot;
         title=&quot;Mountain&quot;
-        src=&quot;/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg&quot;
-        srcset=&quot;/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/a80bd/mountain.jpg 148w,
-/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/1c91a/mountain.jpg 295w,
-/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg 590w,
-/ryang/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg 640w&quot;
+        src=&quot;/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg&quot;
+        srcset=&quot;/static/04fd963e3e5a465c84a4c4d5014f320f/a80bd/mountain.jpg 148w,
+/static/04fd963e3e5a465c84a4c4d5014f320f/1c91a/mountain.jpg 295w,
+/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg 590w,
+/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg 640w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
